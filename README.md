@@ -3,7 +3,7 @@ PRUEBA_SINCRONIZAR_GITEA
 
 Usando IDE de Gitea 
 
-nNeva Migración 
+Nueva Migración usando IDE GITEA 26/10/2026
 
 URL DE GITHUB
 
